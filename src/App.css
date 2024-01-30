@@ -1,0 +1,9 @@
+input {
+  padding: 5px;
+  margin: 5px;
+  border-radius: 20px;
+}
+
+th {
+  padding: 15px;
+}
